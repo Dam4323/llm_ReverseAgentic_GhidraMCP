@@ -21,8 +21,3 @@ Ce dépôt fournit les supports pour :
 * analyser la sequence d'initialisation du binaire (`entry`, libc)
 * etudier les graphes de flux de controle et de donnees
 * evaluer l'aide d'un llm local via mcp pour l'analyse de code
-
-## Compilation
-
-```bash
-gcc -O0 -fno-stack-protector audit_target.c -o audit_target
