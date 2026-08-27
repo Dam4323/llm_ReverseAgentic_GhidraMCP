@@ -6,7 +6,6 @@ Laboratoire pratique d'analyse de binaire et de retro-ingenierie assistee par ll
 
 ## Contenu du dossier
 
-* `audit_target.c` : code source c
 * `audit_target` : binaire elf compile (x86-64)
 * `_Entry_Assembly.png` : desassemblage du point d'entree `entry`
 * `_Entry_Visualisation.png` : vue decompactee du point d'entree
